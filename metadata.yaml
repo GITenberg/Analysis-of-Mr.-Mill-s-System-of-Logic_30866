@@ -1,0 +1,29 @@
+_repo: Analysis-of-Mr.-Mill-s-System-of-Logic_30866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stebbing, W. (William)
+    alias: Stebbing, William
+    birthdate: 1832
+    deathdate: 1926
+    gutenberg_agent_id: '28352'
+    url: http://www.gutenberg.org/2009/agents/28352
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic, Modern -- 19th century'
+- !lcsh 'Mill, John Stuart, 1806-1873'
+- !lcc 'B'
+title: Analysis of Mr. Mill's System of Logic
+url: http://www.gutenberg.org/ebooks/30866
